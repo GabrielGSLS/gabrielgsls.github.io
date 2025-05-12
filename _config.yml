@@ -5,12 +5,11 @@ icon_img: /assets/img/icon.webp
 name: "Gabriel de Souza Leal Silva"
 job: "Advogado"
 
-phone_number: 6199622-1569
+phone_number: (61)99622-1569
 address: Brasília - DF, Brasil
 email: g.lealsilva1996@gmail.com
-linkedin_username: Gabriel de Souza Leal Silva
+linkedin_username: gabriel-de-souza-leal-silva-479a4a228
 github_username: GabrielGSLS
-blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
